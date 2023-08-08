@@ -48,5 +48,3 @@ jobs:
       deployToSlotOrASE: true
       SlotName: 'production' # Change to your desired deployment slot
     displayName: 'Deploy to Azure Web App'
-
-  # Additional steps for setting up environment variables, configuring Azure services, etc.
